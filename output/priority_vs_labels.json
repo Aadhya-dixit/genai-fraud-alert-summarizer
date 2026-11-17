@@ -1,0 +1,23 @@
+{
+  "alerts_evaluated": 40,
+  "unmatched_alerts": 0,
+  "fraud_labelled_total": 16,
+  "fraud_rate_overall": 40.0,
+  "by_priority": {
+    "High": {
+      "alerts": 16,
+      "fraud_labelled": 4,
+      "fraud_rate": 25.0
+    },
+    "Medium": {
+      "alerts": 24,
+      "fraud_labelled": 12,
+      "fraud_rate": 50.0
+    }
+  },
+  "top_fraud_types": {
+    "R01": 2,
+    "R06": 1,
+    "R04": 1
+  }
+}

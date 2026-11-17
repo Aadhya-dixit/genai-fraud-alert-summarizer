@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-11-17T17:41:59",
+  "prompt_version": "V2",
+  "model": "openai/gpt-oss-120b",
+  "endpoint_host": "api.groq.com",
+  "alerts_available": 279,
+  "alerts_processed": 40,
+  "ok": 40,
+  "failed": 0,
+  "needed_retry": 1,
+  "max_attempts": 2,
+  "first_reply_invalid": 1,
+  "first_reply_fenced": 0,
+  "first_reply_prose": 0,
+  "priority_counts": {
+    "Medium": 24,
+    "High": 16
+  },
+  "elapsed_seconds": 121.1
+}

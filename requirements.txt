@@ -1,0 +1,8 @@
+openai==3.52.0
+pandas==3.0.3
+python-dotenv==1.2.4
+pytest==9.2.0
+
+# Pinned deliberately: numpy 2.5.5 fails to load on this machine because of a
+# Windows Application Control policy. 2.5.0 is the version that loads.
+numpy==2.5.0

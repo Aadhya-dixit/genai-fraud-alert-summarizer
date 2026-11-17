@@ -1,0 +1,280 @@
+txn_id,customer_id,amount,channel,time,rule_fired,rule_description
+T03328,C000,21181.0,Card,2026-10-10 19:36:00,R06,Device change with high amount
+T01381,C002,44631.0,Card,2026-10-05 09:49:00,R06,Device change with high amount
+T04023,C003,17178.0,IMPS,2026-10-13 01:10:00,R03,Odd-hour high amount
+T00790,C006,53190.0,UPI,2026-10-03 14:43:00,R06,Device change with high amount
+T05650,C008,31054.0,UPI,2026-10-17 20:34:00,R01,High amount to new beneficiary
+T00493,C009,27697.0,Card,2026-10-02 16:09:00,R01,High amount to new beneficiary
+T07749,C011,23486.0,IMPS,2026-10-24 02:39:00,R03,Odd-hour high amount
+T02431,C014,26577.0,Card,2026-10-08 11:27:00,R06,Device change with high amount
+T07784,C015,26231.0,IMPS,2026-10-24 09:12:00,R06,Device change with high amount
+T09416,C018,20529.0,UPI,2026-10-29 09:53:00,R06,Device change with high amount
+T04361,C020,19229.0,UPI,2026-10-14 02:28:00,R03,Odd-hour high amount
+T04424,C020,25872.0,IMPS,2026-10-14 11:06:00,R06,Device change with high amount
+T02299,C021,1500.0,UPI,2026-10-07 19:37:00,R07,Location change within window
+T01669,C022,39944.0,Card,2026-10-06 01:18:00,R03,Odd-hour high amount
+T00322,C023,16537.0,IMPS,2026-10-02 03:06:00,R03,Odd-hour high amount
+T03099,C023,34228.0,UPI,2026-10-10 10:01:00,R01,High amount to new beneficiary
+T03427,C023,27408.0,UPI,2026-10-11 09:57:00,R06,Device change with high amount
+T00144,C024,48095.0,Card,2026-10-01 13:55:00,R05,Structuring below reporting limit
+T04229,C026,48722.0,Card,2026-10-13 16:30:00,R05,Structuring below reporting limit
+T03725,C027,14005.0,UPI,2026-10-12 03:02:00,R03,Odd-hour high amount
+T03724,C030,12585.0,IMPS,2026-10-12 02:54:00,R03,Odd-hour high amount
+T08753,C030,12466.0,Card,2026-10-27 03:26:00,R03,Odd-hour high amount
+T08678,C031,67899.0,Card,2026-10-26 18:16:00,R01,High amount to new beneficiary
+T09693,C032,15402.0,Card,2026-10-30 02:15:00,R03,Odd-hour high amount
+T04887,C033,46584.0,UPI,2026-10-15 16:21:00,R05,Structuring below reporting limit
+T04898,C036,47627.0,IMPS,2026-10-15 16:57:00,R05,Structuring below reporting limit
+T07747,C037,12608.0,IMPS,2026-10-24 02:05:00,R03,Odd-hour high amount
+T02911,C038,3088.0,IMPS,2026-10-09 15:44:00,R08,Repeated transfers to same beneficiary
+T02915,C038,7963.0,Card,2026-10-09 15:52:00,R08,Repeated transfers to same beneficiary
+T07577,C039,63922.0,UPI,2026-10-23 15:38:00,R01,High amount to new beneficiary
+T03984,C040,2000.0,IMPS,2026-10-12 20:21:00,R04,Failed attempts then success
+T07949,C044,55980.0,UPI,2026-10-24 16:26:00,R01,High amount to new beneficiary
+T07833,C045,1500.0,IMPS,2026-10-24 11:32:00,R07,Location change within window
+T08492,C046,47616.0,Card,2026-10-26 10:03:00,R05,Structuring below reporting limit
+T07392,C047,19348.0,UPI,2026-10-23 03:22:00,R03,Odd-hour high amount
+T08704,C049,49610.0,UPI,2026-10-26 19:48:00,R05,Structuring below reporting limit
+T04295,C056,25511.0,IMPS,2026-10-13 19:09:00,R01,High amount to new beneficiary
+T04576,C057,58265.0,IMPS,2026-10-14 17:39:00,R01,High amount to new beneficiary
+T07120,C058,46656.0,IMPS,2026-10-22 10:29:00,"R05,R06",Structuring below reporting limit; Device change with high amount
+T02710,C059,32448.0,Card,2026-10-09 01:39:00,R03,Odd-hour high amount
+T03681,C059,1152.0,Card,2026-10-11 20:24:00,R08,Repeated transfers to same beneficiary
+T03683,C059,698.0,UPI,2026-10-11 20:26:00,R02,Transaction velocity
+T02712,C060,31439.0,Card,2026-10-09 02:55:00,R03,Odd-hour high amount
+T00347,C063,21353.0,UPI,2026-10-02 09:28:00,R06,Device change with high amount
+T07814,C063,32084.0,UPI,2026-10-24 10:40:00,R01,High amount to new beneficiary
+T02865,C066,34778.0,UPI,2026-10-09 13:39:00,R01,High amount to new beneficiary
+T00978,C067,11138.0,IMPS,2026-10-04 02:04:00,R03,Odd-hour high amount
+T03058,C070,15040.0,IMPS,2026-10-10 02:18:00,R03,Odd-hour high amount
+T03232,C074,26573.0,UPI,2026-10-10 15:47:00,R01,High amount to new beneficiary
+T07388,C076,28782.0,Card,2026-10-23 01:22:00,R03,Odd-hour high amount
+T09421,C078,57508.0,IMPS,2026-10-29 10:05:00,R06,Device change with high amount
+T08072,C081,48756.0,UPI,2026-10-24 20:51:00,R05,Structuring below reporting limit
+T01448,C082,46614.0,IMPS,2026-10-05 12:34:00,R05,Structuring below reporting limit
+T02640,C082,24111.0,UPI,2026-10-08 19:01:00,R06,Device change with high amount
+T04024,C082,19896.0,Card,2026-10-13 03:55:00,R03,Odd-hour high amount
+T04216,C082,47352.0,IMPS,2026-10-13 16:13:00,R05,Structuring below reporting limit
+T06607,C082,32226.0,Card,2026-10-20 17:50:00,R01,High amount to new beneficiary
+T02022,C087,12502.0,Card,2026-10-07 01:07:00,R03,Odd-hour high amount
+T00881,C088,49230.0,IMPS,2026-10-03 17:59:00,R05,Structuring below reporting limit
+T02361,C090,10924.0,IMPS,2026-10-08 03:56:00,R03,Odd-hour high amount
+T02709,C096,19958.0,IMPS,2026-10-09 01:29:00,R03,Odd-hour high amount
+T00272,C099,46594.0,UPI,2026-10-01 19:17:00,R05,Structuring below reporting limit
+T08433,C100,16684.0,UPI,2026-10-26 03:59:00,R03,Odd-hour high amount
+T09207,C105,23228.0,Card,2026-10-28 15:26:00,R06,Device change with high amount
+T05160,C108,28517.0,UPI,2026-10-16 13:38:00,R01,High amount to new beneficiary
+T05589,C113,56229.0,Card,2026-10-17 17:56:00,R01,High amount to new beneficiary
+T02577,C114,49795.0,IMPS,2026-10-08 16:34:00,R05,Structuring below reporting limit
+T07496,C114,34338.0,UPI,2026-10-23 12:14:00,R01,High amount to new beneficiary
+T08155,C116,46883.0,UPI,2026-10-25 09:51:00,"R01,R05",High amount to new beneficiary; Structuring below reporting limit
+T08932,C116,24156.0,UPI,2026-10-27 17:06:00,R06,Device change with high amount
+T00979,C117,18652.0,IMPS,2026-10-04 02:14:00,R03,Odd-hour high amount
+T02985,C117,48683.0,Card,2026-10-09 18:56:00,R05,Structuring below reporting limit
+T05361,C117,19136.0,UPI,2026-10-17 01:53:00,R03,Odd-hour high amount
+T00320,C118,27310.0,IMPS,2026-10-02 01:33:00,R03,Odd-hour high amount
+T02993,C119,23232.0,Card,2026-10-09 19:14:00,R06,Device change with high amount
+T01903,C132,34239.0,Card,2026-10-06 17:11:00,R01,High amount to new beneficiary
+T07647,C133,26922.0,Card,2026-10-23 17:59:00,R01,High amount to new beneficiary
+T09373,C133,26578.0,Card,2026-10-29 01:32:00,R03,Odd-hour high amount
+T04726,C137,29396.0,IMPS,2026-10-15 09:19:00,R01,High amount to new beneficiary
+T00748,C139,1500.0,IMPS,2026-10-03 12:46:00,R07,Location change within window
+T04849,C141,24236.0,Card,2026-10-15 14:31:00,R06,Device change with high amount
+T08017,C141,25150.0,Card,2026-10-24 19:02:00,R06,Device change with high amount
+T00003,C142,12277.0,Card,2026-10-01 02:49:00,R03,Odd-hour high amount
+T02447,C145,30790.0,Card,2026-10-08 11:55:00,R01,High amount to new beneficiary
+T00002,C147,23708.0,IMPS,2026-10-01 01:57:00,R03,Odd-hour high amount
+T00321,C148,19650.0,IMPS,2026-10-02 02:46:00,R03,Odd-hour high amount
+T07065,C149,14270.0,UPI,2026-10-22 02:26:00,R03,Odd-hour high amount
+T08428,C149,13563.0,UPI,2026-10-26 01:17:00,R03,Odd-hour high amount
+T05685,C152,14150.0,IMPS,2026-10-18 01:51:00,R03,Odd-hour high amount
+T07516,C156,27840.0,UPI,2026-10-23 12:52:00,R06,Device change with high amount
+T00980,C159,13530.0,Card,2026-10-04 02:39:00,R03,Odd-hour high amount
+T03341,C159,49661.0,Card,2026-10-10 20:08:00,R05,Structuring below reporting limit
+T08300,C160,48511.0,IMPS,2026-10-25 15:46:00,R05,Structuring below reporting limit
+T00052,C167,76293.0,Card,2026-10-01 10:05:00,R01,High amount to new beneficiary
+T05269,C167,2000.0,UPI,2026-10-16 18:39:00,R04,Failed attempts then success
+T03056,C169,10735.0,IMPS,2026-10-10 01:15:00,R03,Odd-hour high amount
+T04363,C170,18170.0,IMPS,2026-10-14 03:25:00,R03,Odd-hour high amount
+T04362,C171,19612.0,Card,2026-10-14 02:53:00,R03,Odd-hour high amount
+T06851,C171,47200.0,UPI,2026-10-21 13:27:00,R05,Structuring below reporting limit
+T08751,C173,11075.0,IMPS,2026-10-27 01:16:00,R03,Odd-hour high amount
+T06213,C174,24154.0,UPI,2026-10-19 15:34:00,R06,Device change with high amount
+T01109,C180,22233.0,UPI,2026-10-04 13:07:00,R06,Device change with high amount
+T09579,C180,48673.0,Card,2026-10-29 17:21:00,R05,Structuring below reporting limit
+T03939,C181,23656.0,UPI,2026-10-12 18:07:00,R06,Device change with high amount
+T07501,C183,47517.0,UPI,2026-10-23 12:26:00,R05,Structuring below reporting limit
+T01995,C185,68631.0,Card,2026-10-06 20:46:00,R01,High amount to new beneficiary
+T01217,C191,42566.0,Card,2026-10-04 17:10:00,R06,Device change with high amount
+T01571,C197,26919.0,Card,2026-10-05 17:28:00,R01,High amount to new beneficiary
+T07631,C198,32394.0,IMPS,2026-10-23 17:31:00,R01,High amount to new beneficiary
+T06710,C200,16880.0,UPI,2026-10-21 03:36:00,R03,Odd-hour high amount
+T08888,C201,48598.0,IMPS,2026-10-27 15:08:00,R05,Structuring below reporting limit
+T09182,C202,1500.0,UPI,2026-10-28 14:17:00,R07,Location change within window
+T08431,C207,17906.0,Card,2026-10-26 02:20:00,R03,Odd-hour high amount
+T01671,C208,12702.0,Card,2026-10-06 03:48:00,R03,Odd-hour high amount
+T09692,C208,11963.0,UPI,2026-10-30 01:59:00,R03,Odd-hour high amount
+T04319,C214,32836.0,IMPS,2026-10-13 20:05:00,R01,High amount to new beneficiary
+T06420,C217,60300.0,Card,2026-10-20 10:33:00,R01,High amount to new beneficiary
+T09374,C220,27182.0,IMPS,2026-10-29 01:34:00,R03,Odd-hour high amount
+T01258,C222,32145.0,Card,2026-10-04 18:54:00,R01,High amount to new beneficiary
+T07748,C224,17820.0,Card,2026-10-24 02:18:00,R03,Odd-hour high amount
+T08430,C224,11260.0,Card,2026-10-26 02:19:00,R03,Odd-hour high amount
+T00104,C227,34886.0,Card,2026-10-01 11:58:00,R01,High amount to new beneficiary
+T01404,C227,24062.0,IMPS,2026-10-05 10:51:00,R06,Device change with high amount
+T03193,C229,32775.0,Card,2026-10-10 14:00:00,R06,Device change with high amount
+T07808,C229,45761.0,Card,2026-10-24 10:26:00,R05,Structuring below reporting limit
+T07139,C230,2899.0,UPI,2026-10-22 10:59:00,R02,Transaction velocity
+T06902,C232,50793.0,Card,2026-10-21 15:43:00,R06,Device change with high amount
+T07614,C236,23766.0,IMPS,2026-10-23 16:52:00,R06,Device change with high amount
+T01413,C237,1500.0,IMPS,2026-10-05 11:15:00,R07,Location change within window
+T07861,C240,48141.0,Card,2026-10-24 12:27:00,R05,Structuring below reporting limit
+T06454,C244,48212.0,IMPS,2026-10-20 11:48:00,R05,Structuring below reporting limit
+T03790,C245,26939.0,UPI,2026-10-12 11:24:00,R01,High amount to new beneficiary
+T00000,C246,12814.0,Card,2026-10-01 01:16:00,R03,Odd-hour high amount
+T02563,C246,57318.0,UPI,2026-10-08 16:08:00,R06,Device change with high amount
+T02965,C246,22261.95,Card,2026-10-09 18:18:00,R06,Device change with high amount
+T04626,C247,27317.0,IMPS,2026-10-14 19:42:00,R01,High amount to new beneficiary
+T03781,C248,48238.0,UPI,2026-10-12 10:55:00,R05,Structuring below reporting limit
+T08432,C249,11497.0,UPI,2026-10-26 02:31:00,R03,Odd-hour high amount
+T05362,C251,13793.0,Card,2026-10-17 03:17:00,R03,Odd-hour high amount
+T09375,C256,10840.0,Card,2026-10-29 02:08:00,R03,Odd-hour high amount
+T09399,C257,33062.0,IMPS,2026-10-29 09:02:00,R01,High amount to new beneficiary
+T09576,C261,49839.0,Card,2026-10-29 17:08:00,R05,Structuring below reporting limit
+T03696,C263,6021.0,Card,2026-10-11 20:54:00,R08,Repeated transfers to same beneficiary
+T03704,C263,6121.0,UPI,2026-10-11 21:02:00,R08,Repeated transfers to same beneficiary
+T05209,C264,28477.0,UPI,2026-10-16 16:11:00,R06,Device change with high amount
+T05232,C267,23664.0,UPI,2026-10-16 17:14:00,R06,Device change with high amount
+T00227,C270,46779.0,UPI,2026-10-01 17:03:00,R05,Structuring below reporting limit
+T04491,C272,35528.0,Card,2026-10-14 14:13:00,R01,High amount to new beneficiary
+T01573,C273,85351.0,IMPS,2026-10-05 17:40:00,R01,High amount to new beneficiary
+T08752,C274,16953.0,UPI,2026-10-27 03:11:00,R03,Odd-hour high amount
+T09784,C276,49390.0,UPI,2026-10-30 12:16:00,R05,Structuring below reporting limit
+T00001,C277,19649.0,IMPS,2026-10-01 01:27:00,R03,Odd-hour high amount
+T04525,C277,32235.0,UPI,2026-10-14 15:34:00,R01,High amount to new beneficiary
+T07864,C279,31849.0,IMPS,2026-10-24 12:36:00,R01,High amount to new beneficiary
+T08809,C286,29442.0,UPI,2026-10-27 10:52:00,R01,High amount to new beneficiary
+T01672,C287,17158.0,Card,2026-10-06 03:51:00,R03,Odd-hour high amount
+T09537,C287,21142.0,IMPS,2026-10-29 15:28:00,R06,Device change with high amount
+T00842,C292,2483.0,UPI,2026-10-03 16:42:00,R02,Transaction velocity
+T06149,C294,1500.0,IMPS,2026-10-19 13:05:00,R07,Location change within window
+T02645,C298,33701.0,IMPS,2026-10-08 19:28:00,R01,High amount to new beneficiary
+T06904,C298,49675.0,UPI,2026-10-21 15:51:00,R05,Structuring below reporting limit
+T09313,C301,28934.0,Card,2026-10-28 20:04:00,R01,High amount to new beneficiary
+T09830,C306,26091.0,IMPS,2026-10-30 13:57:00,R06,Device change with high amount
+T06423,C307,48902.0,IMPS,2026-10-20 10:37:00,R05,Structuring below reporting limit
+T01758,C308,43033.0,IMPS,2026-10-06 11:07:00,R06,Device change with high amount
+T01880,C308,21084.0,UPI,2026-10-06 16:24:00,R06,Device change with high amount
+T04420,C309,32842.0,Card,2026-10-14 10:53:00,R01,High amount to new beneficiary
+T01794,C310,25979.0,IMPS,2026-10-06 12:43:00,R01,High amount to new beneficiary
+T04775,C310,30907.0,IMPS,2026-10-15 11:05:00,R01,High amount to new beneficiary
+T07750,C311,11204.0,UPI,2026-10-24 02:52:00,R03,Odd-hour high amount
+T07115,C314,76070.0,IMPS,2026-10-22 10:18:00,R01,High amount to new beneficiary
+T00726,C316,48939.0,UPI,2026-10-03 12:10:00,R05,Structuring below reporting limit
+T02711,C317,37354.0,UPI,2026-10-09 02:30:00,R03,Odd-hour high amount
+T08020,C317,2000.0,IMPS,2026-10-24 19:04:00,R04,Failed attempts then success
+T09812,C317,1500.0,UPI,2026-10-30 13:19:00,R07,Location change within window
+T01043,C318,43942.0,Card,2026-10-04 10:28:00,R06,Device change with high amount
+T01586,C318,78293.0,Card,2026-10-05 18:11:00,"R01,R06",High amount to new beneficiary; Device change with high amount
+T02452,C319,46559.0,IMPS,2026-10-08 12:03:00,R05,Structuring below reporting limit
+T02713,C319,15574.0,UPI,2026-10-09 03:24:00,R03,Odd-hour high amount
+T08921,C322,29423.0,UPI,2026-10-27 16:22:00,R01,High amount to new beneficiary
+T04640,C324,1500.0,IMPS,2026-10-14 20:19:00,R07,Location change within window
+T06065,C328,26554.0,Card,2026-10-19 09:45:00,R06,Device change with high amount
+T03098,C331,46632.0,Card,2026-10-10 09:53:00,R05,Structuring below reporting limit
+T01548,C332,24527.0,Card,2026-10-05 16:37:00,R06,Device change with high amount
+T04149,C332,78841.0,UPI,2026-10-13 13:25:00,R01,High amount to new beneficiary
+T04959,C336,22723.0,UPI,2026-10-15 19:06:00,R06,Device change with high amount
+T02024,C337,14933.0,UPI,2026-10-07 03:31:00,R03,Odd-hour high amount
+T07393,C337,17850.0,UPI,2026-10-23 03:39:00,R03,Odd-hour high amount
+T03553,C340,29352.0,UPI,2026-10-11 15:03:00,R06,Device change with high amount
+T08585,C343,28166.0,IMPS,2026-10-26 14:00:00,R01,High amount to new beneficiary
+T04360,C345,11852.0,IMPS,2026-10-14 02:18:00,R03,Odd-hour high amount
+T02086,C348,88537.0,Card,2026-10-07 10:31:00,R01,High amount to new beneficiary
+T03428,C350,56741.0,Card,2026-10-11 09:58:00,R01,High amount to new beneficiary
+T05560,C351,4181.0,IMPS,2026-10-17 16:59:00,R08,Repeated transfers to same beneficiary
+T05569,C351,6177.0,IMPS,2026-10-17 17:07:00,R08,Repeated transfers to same beneficiary
+T07391,C352,16588.0,IMPS,2026-10-23 02:55:00,R03,Odd-hour high amount
+T09696,C356,18850.0,IMPS,2026-10-30 03:37:00,R03,Odd-hour high amount
+T07921,C358,80384.0,IMPS,2026-10-24 15:07:00,R01,High amount to new beneficiary
+T08715,C358,25620.0,Card,2026-10-26 20:25:00,R06,Device change with high amount
+T09299,C359,29248.0,UPI,2026-10-28 19:37:00,R01,High amount to new beneficiary
+T09140,C362,45947.0,IMPS,2026-10-28 12:25:00,R05,Structuring below reporting limit
+T07209,C363,48299.0,IMPS,2026-10-22 14:18:00,R05,Structuring below reporting limit
+T08105,C366,15754.0,Card,2026-10-25 02:38:00,R03,Odd-hour high amount
+T09697,C366,13791.0,UPI,2026-10-30 03:38:00,R03,Odd-hour high amount
+T00385,C367,1500.0,Card,2026-10-02 11:10:00,R07,Location change within window
+T00977,C369,10986.0,UPI,2026-10-04 01:02:00,R03,Odd-hour high amount
+T02996,C369,28434.0,UPI,2026-10-09 19:22:00,R06,Device change with high amount
+T07390,C369,14127.0,UPI,2026-10-23 02:48:00,R03,Odd-hour high amount
+T08104,C369,15465.0,IMPS,2026-10-25 01:26:00,R03,Odd-hour high amount
+T06596,C370,32938.0,IMPS,2026-10-20 17:32:00,R01,High amount to new beneficiary
+T06169,C371,25449.0,UPI,2026-10-19 13:32:00,R06,Device change with high amount
+T05533,C372,54194.0,UPI,2026-10-17 16:05:00,R06,Device change with high amount
+T04071,C374,2000.0,IMPS,2026-10-13 10:00:00,R04,Failed attempts then success
+T06363,C380,17346.0,UPI,2026-10-20 03:30:00,R03,Odd-hour high amount
+T06029,C381,13982.0,Card,2026-10-19 01:43:00,R03,Odd-hour high amount
+T06478,C381,35203.0,UPI,2026-10-20 12:47:00,R06,Device change with high amount
+T03057,C384,37648.0,Card,2026-10-10 01:36:00,R03,Odd-hour high amount
+T06709,C384,15295.0,IMPS,2026-10-21 03:22:00,R03,Odd-hour high amount
+T02249,C387,34011.0,Card,2026-10-07 17:43:00,R06,Device change with high amount
+T07460,C389,48144.0,UPI,2026-10-23 10:49:00,R05,Structuring below reporting limit
+T07469,C389,58003.0,UPI,2026-10-23 11:21:00,R01,High amount to new beneficiary
+T04965,C390,27973.0,UPI,2026-10-15 19:31:00,R01,High amount to new beneficiary
+T05416,C390,59884.0,Card,2026-10-17 10:23:00,R06,Device change with high amount
+T06185,C390,35678.0,Card,2026-10-19 14:08:00,R06,Device change with high amount
+T00319,C391,25626.0,Card,2026-10-02 01:16:00,R03,Odd-hour high amount
+T02588,C392,1500.0,UPI,2026-10-08 17:02:00,R07,Location change within window
+T07952,C393,72309.0,Card,2026-10-24 16:28:00,R01,High amount to new beneficiary
+T05686,C395,14664.0,Card,2026-10-18 03:38:00,R03,Odd-hour high amount
+T01818,C397,71188.0,UPI,2026-10-06 14:07:00,R01,High amount to new beneficiary
+T05108,C397,28017.0,Card,2026-10-16 10:59:00,R01,High amount to new beneficiary
+T02482,C399,8211.0,Card,2026-10-08 12:55:00,R08,Repeated transfers to same beneficiary
+T02487,C399,7931.0,UPI,2026-10-08 13:03:00,R08,Repeated transfers to same beneficiary
+T05083,C399,27441.0,Card,2026-10-16 10:00:00,R01,High amount to new beneficiary
+T04226,C400,51522.0,Card,2026-10-13 16:26:00,R06,Device change with high amount
+T02360,C401,18314.0,UPI,2026-10-08 03:26:00,R03,Odd-hour high amount
+T08582,C402,47299.0,Card,2026-10-26 13:53:00,"R01,R05",High amount to new beneficiary; Structuring below reporting limit
+T07537,C408,28472.0,Card,2026-10-23 13:28:00,R06,Device change with high amount
+T03117,C412,26905.0,UPI,2026-10-10 10:53:00,R01,High amount to new beneficiary
+T00740,C413,45656.0,IMPS,2026-10-03 12:40:00,R05,Structuring below reporting limit
+T03346,C414,48944.0,Card,2026-10-10 20:30:00,R05,Structuring below reporting limit
+T04364,C414,20879.0,UPI,2026-10-14 03:57:00,R03,Odd-hour high amount
+T09424,C417,24039.0,Card,2026-10-29 10:09:00,R06,Device change with high amount
+T02578,C419,27259.0,IMPS,2026-10-08 16:36:00,R01,High amount to new beneficiary
+T05393,C425,46725.0,Card,2026-10-17 09:29:00,R05,Structuring below reporting limit
+T06362,C427,14364.0,Card,2026-10-20 02:38:00,R03,Odd-hour high amount
+T04165,C428,6010.0,Card,2026-10-13 14:06:00,R08,Repeated transfers to same beneficiary
+T04168,C428,3459.0,Card,2026-10-13 14:14:00,R08,Repeated transfers to same beneficiary
+T00231,C430,29141.0,Card,2026-10-01 17:20:00,R01,High amount to new beneficiary
+T07130,C439,25955.0,Card,2026-10-22 10:51:00,R06,Device change with high amount
+T03391,C440,13645.0,IMPS,2026-10-11 03:50:00,R03,Odd-hour high amount
+T02023,C445,26528.0,IMPS,2026-10-07 03:06:00,R03,Odd-hour high amount
+T01160,C451,1271.0,IMPS,2026-10-04 14:47:00,R02,Transaction velocity
+T02714,C451,12259.0,UPI,2026-10-09 03:28:00,R03,Odd-hour high amount
+T02423,C456,29963.0,Card,2026-10-08 11:20:00,R01,High amount to new beneficiary
+T09694,C462,21712.0,IMPS,2026-10-30 02:26:00,R03,Odd-hour high amount
+T01255,C463,48226.0,Card,2026-10-04 18:50:00,"R05,R06",Structuring below reporting limit; Device change with high amount
+T04086,C463,2000.0,UPI,2026-10-13 10:42:00,R04,Failed attempts then success
+T01930,C466,26958.0,Card,2026-10-06 18:01:00,R01,High amount to new beneficiary
+T01670,C468,13257.0,UPI,2026-10-06 01:31:00,R03,Odd-hour high amount
+T03128,C470,24539.0,Card,2026-10-10 11:33:00,R06,Device change with high amount
+T00743,C473,44012.0,UPI,2026-10-03 12:43:00,R06,Device change with high amount
+T02359,C473,13894.0,Card,2026-10-08 01:07:00,R03,Odd-hour high amount
+T05463,C473,1500.0,Card,2026-10-17 12:35:00,R07,Location change within window
+T09695,C474,12928.0,Card,2026-10-30 02:40:00,R03,Odd-hour high amount
+T05027,C475,15540.0,UPI,2026-10-16 01:40:00,R03,Odd-hour high amount
+T09176,C480,2000.0,Card,2026-10-28 14:04:00,R04,Failed attempts then success
+T04137,C483,52227.0,IMPS,2026-10-13 12:54:00,R01,High amount to new beneficiary
+T08700,C483,49136.0,IMPS,2026-10-26 19:27:00,R05,Structuring below reporting limit
+T09691,C484,14546.0,Card,2026-10-30 01:53:00,R03,Odd-hour high amount
+T04691,C485,16029.0,Card,2026-10-15 02:26:00,R03,Odd-hour high amount
+T01834,C487,21041.0,IMPS,2026-10-06 14:31:00,R06,Device change with high amount
+T07608,C490,1500.0,IMPS,2026-10-23 16:40:00,R07,Location change within window
+T02131,C491,89559.0,UPI,2026-10-07 12:24:00,R01,High amount to new beneficiary
+T07389,C491,16388.0,IMPS,2026-10-23 01:35:00,R03,Odd-hour high amount
+T08429,C492,19790.0,UPI,2026-10-26 02:19:00,R03,Odd-hour high amount
+T04460,C493,48732.0,Card,2026-10-14 12:53:00,R05,Structuring below reporting limit
+T04530,C495,48299.0,UPI,2026-10-14 15:45:00,R05,Structuring below reporting limit
+T07688,C497,49836.0,UPI,2026-10-23 19:48:00,R05,Structuring below reporting limit
+T09055,C499,14219.0,UPI,2026-10-28 02:37:00,R03,Odd-hour high amount

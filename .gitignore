@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Free-text API key handed over locally; never commit a key or the resume.
+API key-Groq.txt
+*.pdf
+
+# Per-run scratch state, not part of the deliverable.
+output/checkpoint*.jsonl
